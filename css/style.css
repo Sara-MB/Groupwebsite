@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	max-height: 2px;
+	margin-bottom: 70px;
+	font-size: 14px;
+	
+}
+
+.Brandname{
+	 font-family: 'Aldrich';font-size: 22px;
+}
+
+.carousel{
+	    font-family: 'Aldrich';font-size: 22px;
+
+}
+.myclass1{
+	background-image: url("../images/benjamin-davies-mqN-EV9rNlY-unsplash.jpg");
+	bakcground-color:black;
+	marging: 0px;
+	padding: 0px;
+}
+
+.footer{
+	background-color:black;
+	color:aliceblue;
+	
+}
+
+
+.social-media-menu ul{ 
+display: flex;	
+text-align:center;
+}
+
+.social-media-menu ul li{
+	list-style:none;
+	margin: 0 15px;
+}
